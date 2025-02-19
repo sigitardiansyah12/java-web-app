@@ -1,1 +1,1 @@
-# java-web-app
+# java-simple-cli-app
